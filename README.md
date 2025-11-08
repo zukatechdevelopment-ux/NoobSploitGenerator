@@ -1,0 +1,2 @@
+# NoobSploitGenerator
+This project was made in python. And easy generator for new developers.
