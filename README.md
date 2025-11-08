@@ -1,6 +1,6 @@
 # NoobSploitGenerator
-This project was made in python. And easy generator for new developers.
-
+This project was made in python. An easy generator for new developers.
+The code generated should be execute ready. 
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⢀⡀⡀⠀⠀⠀⠀⠀⠀⠀⢠⣤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⣶⡇⠀⣾⡇⠀⠛⠃⠀⠀⣾⠛⠛⠀⠀⡇⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠛⠻⢷⣦⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
